@@ -25,3 +25,6 @@
 ## Built with
 ---
 > miro figma
+## References/ Resources
+---
+> https://gist.github.com/prof3ssorSt3v3/48621be79794a8a3adeed7971786d4d8
