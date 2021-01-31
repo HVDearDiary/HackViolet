@@ -1,4 +1,6 @@
 # Dear Diary
+>dear-diary-login.web.app
+---
 ## Inspiration
 ---
 > The toll of the pandemic has greatly affected women in their personal and professional lives. Our goal was to create a simple and creative outlet for users to express themselves, document their feelings, and relieve stress or anxiety. We wanted to create a platform to improve users' mental health through a progressive timeline of a daily video dairy and affirmations that empower users in difficult times. 
