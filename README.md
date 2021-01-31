@@ -9,7 +9,7 @@
 
 > *"Today I am a Leader" or "Today I am Powerful"*
 
-> The dairy records users thoughts and affirmations, and we hope the creative outlet can provide a sense of comfort or confidence in oneself. The timeline can allow you to revisit memories and see how your mental state has personally developed.
+> The diary records users thoughts and affirmations, and we hope the creative outlet can provide a sense of comfort or confidence in oneself. The timeline can allow you to revisit memories and see how your mental state has personally developed.
 ## How we built it
 ---
 
