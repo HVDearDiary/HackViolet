@@ -12,7 +12,7 @@
 > The dairy records users thoughts and affirmations, and we hope the creative outlet can provide a sense of comfort or confidence in oneself. The timeline can allow you to revisit memories and see how your mental state has personally developed.
 ## How we built it
 ---
-miro figma
+
 ## Challenges we ran into
 ---
 
@@ -23,3 +23,5 @@ miro figma
 ---
 
 ## Built with
+---
+> miro figma
